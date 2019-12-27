@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 856 823" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Box">
+        <path d="M0.394,132.424C175.644,167.964 311.781,224.863 420.35,296.816C479.419,478.942 449.297,650.843 420.35,822.879L0.394,625.605L0.394,132.424Z" style="fill:rgb(209,127,56);fill-rule:nonzero;"/>
+        <path d="M452.653,0.909L0.394,132.424L420.35,296.816C583.812,293.927 723.021,228.804 856.455,148.862L452.653,0.909Z" style="fill:rgb(227,147,78);fill-rule:nonzero;"/>
+        <path d="M856.455,625.605L856.455,148.862L420.35,296.816L420.35,822.879L856.455,625.605Z" style="fill:rgb(165,92,28);fill-rule:nonzero;"/>
+        <path d="M97.308,329.696L258.828,395.454L258.828,444.772L97.308,379.013L97.308,329.696Z" style="fill:rgb(102,62,27);fill-rule:nonzero;"/>
+    </g>
+</svg>
